@@ -22,7 +22,16 @@
   "kushempire": "https://api.kushempire.games/api",
   "xstar": "https://game.xname.app",
   "magic": "https://www.magicnewton.com/portal/api",
-
+  "kite": {
+    "Kite_AI_Assistant": "hp4y88pxnqxwlmpxllicjzzn",
+    "Crypto_Price_Assistant": "nc3y3k7zy6gekszmcsordhu7",
+    "Kite_AI_Assistant_ID": "Hp4Y88pxNQXwLMPxlLICJZzN",
+    "Crypto_Price_Assistant_ID": "nC3y3k7zy6gekSZMCSordHu7",
+    "Transaction_Analyzer": "SoFftlsf9z4fyA3QCHYkaANq",
+    "Professor": "htmtbvzpc0vboktahrrv1b7f",
+    "Sherlock": "zs6oe0edbuquit8kk0v10djt",
+    "Crypto Buddy": "18ozhivejnm9b2a8kwfzrgbj"
+  },
   "catopia": "",
   "kitty": "",
   "taker": "",
