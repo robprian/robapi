@@ -39,6 +39,12 @@
         "agent_id": "deployment_nC3y3k7zy6gekSZMCSordHu7",
         "name": "Crypto Price Assistant",
         "questions": []
+      },
+      {
+        "api": "https://deployment-sofftlsf9z4fya3qchykaanq.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_SoFftlsf9z4fyA3QCHYkaANq",
+        "name": "Transaction Analyzer",
+        "questions": []
       }
     ]
   },
