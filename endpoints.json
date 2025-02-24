@@ -23,14 +23,31 @@
   "xstar": "https://game.xname.app",
   "magic": "https://www.magicnewton.com/portal/api",
   "kite": {
-    "Kite_AI_Assistant": "hp4y88pxnqxwlmpxllicjzzn",
-    "Crypto_Price_Assistant": "nc3y3k7zy6gekszmcsordhu7",
-    "Kite_AI_Assistant_ID": "deployment_Hp4Y88pxNQXwLMPxlLICJZzN",
-    "Crypto_Price_Assistant_ID": "deployment_nC3y3k7zy6gekSZMCSordHu7",
-    "Transaction_Analyzer_ID": "deployment_SoFftlsf9z4fyA3QCHYkaANq",
-    "Professor": "htmtbvzpc0vboktahrrv1b7f",
-    "Sherlock": "zs6oe0edbuquit8kk0v10djt",
-    "Crypto Buddy": "18ozhivejnm9b2a8kwfzrgbj"
+    "agents": {
+      "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
+      "deployment_nC3y3k7zy6gekSZMCSordHu7": "Crypto Price Assistant",
+      "deployment_SoFftlsf9z4fyA3QCHYkaANq": "Transaction Analyzer"
+    },
+    "apis": [
+      {
+        "api": "https://deployment-hp4y88pxnqxwlmpxllicjzzn.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_Hp4Y88pxNQXwLMPxlLICJZzN",
+        "name": "Kite AI Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-nc3y3k7zy6gekszmcsordhu7.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_nC3y3k7zy6gekSZMCSordHu7",
+        "name": "Crypto Price Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-sofftlsf9z4fya3qchykaanq.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_SoFftlsf9z4fyA3QCHYkaANq",
+        "name": "Transaction Analyzer",
+        "questions": []
+      }
+    ]
   },
   "catopia": "",
   "kitty": "",
