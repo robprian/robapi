@@ -22,6 +22,7 @@
   "kushempire": "https://api.kushempire.games/api",
   "xstar": "https://game.xname.app",
   "magic": "https://www.magicnewton.com/portal/api",
+  "klok": "https://api1-pp.klokapp.ai/v1",
   "kite": {
     "agents": {
       "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
