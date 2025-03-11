@@ -23,6 +23,8 @@
   "xstar": "https://game.xname.app",
   "magic": "https://www.magicnewton.com/portal/api",
   "klok": "https://api1-pp.klokapp.ai/v1",
+  "nodego": "https://nodego.ai/api",
+
   "kite": {
     "agents": {
       "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
