@@ -25,6 +25,7 @@
   "klok": "https://api1-pp.klokapp.ai/v1",
   "nodego": "https://nodego.ai/api",
   "aigent": "https://api.qton.xyz/v1",
+  "naoris": "https://naorisprotocol.network/sec-api",
 
   "kite": {
     "agents": {
