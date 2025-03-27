@@ -28,6 +28,7 @@
   "naoris": "https://naorisprotocol.network/sec-api",
   "somnia": "https://quest.somnia.network/api",
   "monadscore": "https://mscore.onrender.com",
+  "parasail": "https://www.parasail.network/api",
 
   "kite": {
     "agents": {
