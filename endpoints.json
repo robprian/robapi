@@ -27,6 +27,7 @@
   "aigent": "https://api.qton.xyz/v1",
   "naoris": "https://naorisprotocol.network/sec-api",
   "somnia": "https://quest.somnia.network/api",
+  "monadscore": "https://mscore.onrender.com",
 
   "kite": {
     "agents": {
