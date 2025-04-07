@@ -31,6 +31,7 @@
   "parasail": "https://www.parasail.network/api",
   "byData": "https://mega-api.bydata.app",
   "flow3": "https://api.flow3.tech/api",
+  "dos": "https://api.dashboard.3dos.io/api",
 
   "kite": {
     "agents": {
