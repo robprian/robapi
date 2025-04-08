@@ -32,6 +32,7 @@
   "byData": "https://mega-api.bydata.app",
   "flow3": "https://api.flow3.tech/api",
   "dos": "https://api.dashboard.3dos.io/api",
+  "quackai": "https://quack-ai-api.duckchain.io",
 
   "kite": {
     "agents": {
